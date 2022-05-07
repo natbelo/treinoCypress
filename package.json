@@ -1,5 +1,14 @@
 {
+  "name": "cypress_testes",
+  "version": "1.0.0",
+  "description": "Projetos com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Natalia Belo",
+  "license": "ISC",
   "devDependencies": {
-    "cypress": "^9.5.4"
+    "cypress": "^9.6.0"
   }
 }
