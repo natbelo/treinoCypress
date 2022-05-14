@@ -1,3 +1,3 @@
 cypress.env.json
-node_modules
-screenshots
+/home/nataliabelo/Documentos/Testes/Cypress/aprendendoTestar/node_modules
+/home/nataliabelo/Documentos/Testes/Cypress/aprendendoTestar/cypress/screenshots
